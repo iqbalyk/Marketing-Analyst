@@ -1,0 +1,11 @@
+Marketing Analytics Synthetic Dataset (Portfolio-ready)
+Files generated:
+- customers.csv: customer_id, full_name, gender, age, segment, city, province, join_date
+- products.csv: product_id, product_name, category, brand, unit_price, cost
+- transactions.csv: transaction_id, transaction_date, customer_id, product_id, quantity, unit_price, amount, channel, campaign_id, city, province
+- campaigns.csv: campaign_id, campaign_name, channel, start_date, end_date
+- marketing_spend.csv: campaign_id, month, region, spend, impressions, clicks, conversions
+- targets.csv: month, region, sales_target
+
+Dataset span: Jan 2023 - Dec 2024. Transactions: 50k rows. Customers: 3k. Products: 150. Campaigns: 40.
+Purpose: Designed for marketing performance analysis, ROI, customer segmentation, anomaly detection, and building dashboards (Power BI / Tableau).
