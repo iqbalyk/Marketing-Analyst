@@ -69,3 +69,10 @@ F. Menentukan Insight Bisnis
 2. Apakah marketing efektif meningkatkan penjualan?
 3. Produk apa yang harus diprioritaskan?
 4. Region mana yang underperforming?
+
+# **Notebook**
+https://colab.research.google.com/drive/1iW8qoHk91lSBHPQgVU4uULn9NuDvZIWE?usp=sharing
+
+# **Dashboard**
+![Dashboard_Marketing_Analyst_page-0001](https://github.com/user-attachments/assets/af0175aa-baf8-4505-b593-e3ab281cd9c8)
+Selengkapnya bisa dilihat di https://lookerstudio.google.com/reporting/1306546b-7586-457a-bf91-fc6b5a9d57dc
